@@ -1,4 +1,4 @@
-from fastapi import FAstAPI
+from fastapi import FastAPI
 from app.price_checker import get_price
 
 app=FastAPI()
